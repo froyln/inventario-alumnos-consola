@@ -1,0 +1,7 @@
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\bin\Debug\InventarioAlumnos.exe.config
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\bin\Debug\InventarioAlumnos.exe
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\bin\Debug\InventarioAlumnos.pdb
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\obj\Debug\InventarioAlumnos.csproj.AssemblyReference.cache
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\obj\Debug\InventarioAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\obj\Debug\InventarioAlumnos.exe
+C:\Users\froyl\Desktop\InventarioAlumnos\InventarioAlumnos\InventarioAlumnos\obj\Debug\InventarioAlumnos.pdb
